@@ -126,7 +126,9 @@ It simulates trading strategies and does not provide financial advice.
 ## ⭐ Key Highlights
 
 Combines AI + Finance + System Design
+
 Introduces real-world constraints (transaction cost)
+
 Demonstrates end-to-end ML system thinking
 
 ---
